@@ -951,6 +951,10 @@ header.subPage {
     margin-right: 5px;
 }
 
+.feature p {
+    margin-left: 40px;
+}
+
 /*------------------------------------*\
 	Numbers
 \*------------------------------------*/
