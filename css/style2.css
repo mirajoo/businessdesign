@@ -151,18 +151,6 @@ ul, ol {
 /* --  background image section  -- */
 
 .bg-img {
-    position: absolute;
-    left: 0;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    z-index: -1;
-    background-position: center;
-    background-size: cover;
-    background-attachment: fixed;
-}
-
-.home .bg-img2 {
     position: fixed;
     display: block;
     top: 0;
@@ -175,7 +163,7 @@ ul, ol {
     will-change: transform;
 }
 
-.home .bg-img-wrapper {
+.bg-img-wrapper {
     clip: rect(0, auto, auto, 0);
     position: absolute;
     top: 0;
@@ -184,14 +172,7 @@ ul, ol {
     height: 100%;
 }
 
-/*@media only screen and (max-width: 767px) {*/
-    /*.bg-img {*/
-        /*background-attachment: scroll;*/
-    /*}*/
-/*}*/
-
-.overlay2,
-.bg-img .overlay {
+.overlay {
     position: absolute;
     left: 0;
     top: 0;
@@ -312,6 +293,9 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
 }
 
 @media only screen and (max-width: 767px) {
+    .navbar-brand {
+        padding: 0 16px;
+    }
     #nav.nav-transparent .navbar-brand .logo-alt {
         display: none !important;
     }
