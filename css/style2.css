@@ -162,7 +162,7 @@ ul, ol {
     background-attachment: fixed;
 }
 
-.home .bg-img {
+.home .bg-img2 {
     position: fixed;
     display: block;
     top: 0;
@@ -173,7 +173,6 @@ ul, ol {
     background-position: center center;
     transform: translateZ(0);
     will-change: transform;
-    background-attachment: unset !important;
 }
 
 .home .bg-img-wrapper {
