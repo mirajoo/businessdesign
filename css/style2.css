@@ -190,6 +190,7 @@ ul, ol {
     /*}*/
 /*}*/
 
+.bg-img2 .overlay,
 .bg-img .overlay {
     position: absolute;
     left: 0;
