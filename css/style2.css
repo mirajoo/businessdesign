@@ -173,7 +173,7 @@ ul, ol {
     background-position: center center;
     transform: translateZ(0);
     will-change: transform;
-    background-attachment: unset;
+    background-attachment: unset !important;
 }
 
 .home .bg-img-wrapper {
