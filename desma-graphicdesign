@@ -137,7 +137,6 @@
                             <a href="serviceexperience.html">Service + Experience</a> /
                             <a href="workshopdesign.html">Workshop Design</a> /
                             <a href="uxdesign.html">UX Design</a> /
-                            <a href="graphicdesign.html">Graphic Design</a> /
                             <a href="sounddesign.html">Sound Design</a>
                         </li>
                     </ul>
@@ -175,7 +174,7 @@
                     <br>DESMA, Göteborg | 2015 </p>
                 <div class="feature">
                     <i class="fa fa-check"></i>
-                    <p>Webdesign - UX/UI</p>
+                    <p>Webdesign - UX</p>
                 </div>
                 <div class="feature">
                     <i class="fa fa-check"></i>
