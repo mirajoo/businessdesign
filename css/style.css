@@ -1897,6 +1897,10 @@ header.subPage {
     border-top: 1px solid #EEE;
 }    
 
+.tags {
+    color: #fff;
+}
+
 .tags a {
     text-transform: uppercase;
 }    
